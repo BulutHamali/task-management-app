@@ -1,0 +1,34 @@
+
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+  }
+  
+  h2 {
+    color: #343a40;
+  }
+  
+  #task-form {
+    background-color: #ffffff;
+  }
+  
+  #task-list .list-group-item {
+    border-left: 5px solid #0d6efd;
+  }
+  
+  #task-list .list-group-item select {
+    margin-left: auto;
+  }
+  
+  @media (max-width: 768px) {
+    #task-list .list-group-item {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    #task-list .list-group-item select {
+      margin-top: 10px;
+      margin-left: 0;
+    }
+  }
+  
