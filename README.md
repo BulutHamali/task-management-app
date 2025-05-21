@@ -44,5 +44,3 @@ If I had more time, I would add the ability to delete tasks, color-code differen
 - `app.js` — JavaScript logic
 - `style.css` - Extra styling 
 - `README.md` — Project explanation and reflection
-
--
